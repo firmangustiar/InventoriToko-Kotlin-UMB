@@ -67,7 +67,7 @@ menampilkan List Barang
 ## 📲Tampilan Register
 ![alt text](https://github.com/firmangustiar/InventoriToko-Kotlin-UMB/blob/master/Screenshot%202025-07-28%20220727.png?raw=true)
 ## List Barang
-![alt text](?raw=true)
+![alt text](https://github.com/firmangustiar/InventoriToko-Kotlin-UMB/blob/master/Screenshot%202025-07-28%20215829.png?raw=true)
 ## Keranjang
 ![alt text](?raw=true)
 ## ✅Pembayaran Sukses
