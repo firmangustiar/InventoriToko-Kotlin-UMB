@@ -62,7 +62,7 @@ Pembayaran Sukses
 
 ---
 ## 📱Tampilan Login 
-![alt text](?raw=true)
+![alt text](https://github.com/MHasrun/InventoriToko-Kotlin-UMB/blob/master/Screenshot%202025-07-28%20124728.png?raw=true)
 ## 📲Tampilan Register
 ![alt text](?raw=true)
 ## List Barang
