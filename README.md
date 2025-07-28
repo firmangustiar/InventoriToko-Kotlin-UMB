@@ -1,6 +1,6 @@
 # InventoriToko‑Kotlin‑UMB
 
-Aplikasi **Inventori Toko** berbasis Kotlin (Android) yang dikembangkan untuk memenuhi tugas/skripsi pada program studi Sistem Informasi, Universitas Muhammadiyah Banten.
+Aplikasi **Inventori Toko** berbasis Kotlin (Android) yang dikembangkan untuk memenuhi Tugas UAS pada program studi Sistem Informasi, Universitas Muhammadiyah Banten.
 Aplikasi ini bertujuan untuk membantu pengelolaan stok barang toko, pencatatan penjualan, dan laporan inventori secara sederhana namun efektif.
 
 ## FIRMAN GUSTIAR
@@ -27,7 +27,7 @@ Aplikasi ini bertujuan untuk membantu pengelolaan stok barang toko, pencatatan p
 
 1. **Clone Repository**
    ```bash
-   
+   https://github.com/firmangustiar/InventoriToko-Kotlin-UMB
    cd inventoriToko-kotlin-UMB
 
 2. **Aplikasi Dibuka**
