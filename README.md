@@ -9,11 +9,11 @@ Aplikasi ini bertujuan untuk membantu pengelolaan stok barang toko, pencatatan p
 
 ## 📦 Fitur Utama
 
-- ✅ Tambah, Edit, dan Hapus Data Barang
-- 🛒 Transaksi Penjualan Barang
-- 📉 Laporan Stok dan Penjualan
-- 🗂️ Penyimpanan data menggunakan SQLite / Room Database
-- 🔍 Pencarian dan Filter Data Barang
+- ✅ Login & Register
+- 🛒 Halaman List Barang
+- 📉 Tampil Data Inventori
+- 🗂️ Keranjang dan Pembelian Berhasil
+
 
 ## 🛠️ Teknologi yang Digunakan
 
