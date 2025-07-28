@@ -69,7 +69,7 @@ menampilkan List Barang
 ## List Barang
 ![alt text](https://github.com/firmangustiar/InventoriToko-Kotlin-UMB/blob/master/Screenshot%202025-07-28%20215829.png?raw=true)
 ## Keranjang
-![alt text](?raw=true)
+![alt text](https://github.com/firmangustiar/InventoriToko-Kotlin-UMB/blob/master/Screenshot%202025-07-28%20215841.png?raw=true)
 ## ✅Pembayaran Sukses
 ![alt text](?raw=true)
 ## 🛠️ Tools & Teknologi
