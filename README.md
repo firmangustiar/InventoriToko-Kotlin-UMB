@@ -62,13 +62,13 @@ Pembayaran Sukses
 
 ---
 ## 📱Tampilan Login 
-![alt text](https://github.com/MeliAnggraeni27/inventoriToko-kotlin-UMB/blob/master/app/login.png?raw=true)
+![alt text](?raw=true)
 ## 📲Tampilan Register
-![alt text](https://github.com/MeliAnggraeni27/inventoriToko-kotlin-UMB/blob/master/app/register.png)?raw=true)
+![alt text](?raw=true)
 ## List Barang
-![alt text](https://github.com/MeliAnggraeni27/inventoriToko-kotlin-UMB/blob/master/app/List.png)?raw=true)
+![alt text](?raw=true)
 ## Keranjang
-![alt text](https://github.com/MeliAnggraeni27/inventoriToko-kotlin-UMB/blob/master/app/keranjang.png?raw=true)
+![alt text](?raw=true)
 ## ✅Pembayaran Sukses
-![alt text](https://github.com/MeliAnggraeni27/inventoriToko-kotlin-UMB/blob/master/app/pembayaran%20sukses.png?raw=true)
+![alt text](?raw=true)
 ## 🛠️ Tools & Teknologi
