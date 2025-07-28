@@ -68,7 +68,7 @@ Pembayaran Sukses
 ## List Barang
 ![alt text](https://github.com/MHasrun/InventoriToko-Kotlin-UMB/blob/master/Screenshot%202025-07-28%20124823.png?raw=true)
 ## Keranjang
-![alt text](?raw=true)
+![alt text](https://github.com/MHasrun/InventoriToko-Kotlin-UMB/blob/master/Screenshot%202025-07-28%20124836.png?raw=true)
 ## ✅Pembayaran Sukses
 ![alt text](?raw=true)
 ## 🛠️ Tools & Teknologi
