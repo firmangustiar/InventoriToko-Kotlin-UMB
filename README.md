@@ -63,7 +63,7 @@ menampilkan List Barang
 
 ---
 ## 📱Tampilan Login 
-![alt text](?raw=true)
+![alt text](https://github.com/firmangustiar/InventoriToko-Kotlin-UMB/blob/master/Screenshot%202025-07-28%20220716.png?raw=true)
 ## 📲Tampilan Register
 ![alt text](?raw=true)
 ## List Barang
