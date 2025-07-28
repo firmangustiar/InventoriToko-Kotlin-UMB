@@ -3,8 +3,8 @@
 Aplikasi **Inventori Toko** berbasis Kotlin (Android) yang dikembangkan untuk memenuhi tugas/skripsi pada program studi Sistem Informasi, Universitas Muhammadiyah Banten.
 Aplikasi ini bertujuan untuk membantu pengelolaan stok barang toko, pencatatan penjualan, dan laporan inventori secara sederhana namun efektif.
 
-## L.M. HASRUN
-## NIM 220220029
+## FIRMAN GUSTIAR
+## NIM 220220003
 ## Sistem Informasi 
 
 ## 📦 Fitur Utama
@@ -27,7 +27,7 @@ Aplikasi ini bertujuan untuk membantu pengelolaan stok barang toko, pencatatan p
 
 1. **Clone Repository**
    ```bash
-   https://github.com/MHasrun/InventoriToko-Kotlin-UMB
+   
    cd inventoriToko-kotlin-UMB
 
 2. **Aplikasi Dibuka**
@@ -63,13 +63,13 @@ menampilkan List Barang
 
 ---
 ## 📱Tampilan Login 
-![alt text](https://github.com/MHasrun/InventoriToko-Kotlin-UMB/blob/master/Screenshot%202025-07-28%20124728.png?raw=true)
+![alt text](?raw=true)
 ## 📲Tampilan Register
-![alt text](https://github.com/MHasrun/InventoriToko-Kotlin-UMB/blob/master/Screenshot%202025-07-28%20124744.png?raw=true)
+![alt text](?raw=true)
 ## List Barang
-![alt text](https://github.com/MHasrun/InventoriToko-Kotlin-UMB/blob/master/Screenshot%202025-07-28%20124823.png?raw=true)
+![alt text](?raw=true)
 ## Keranjang
-![alt text](https://github.com/MHasrun/InventoriToko-Kotlin-UMB/blob/master/Screenshot%202025-07-28%20124836.png?raw=true)
+![alt text](?raw=true)
 ## ✅Pembayaran Sukses
-![alt text](https://github.com/MHasrun/InventoriToko-Kotlin-UMB/blob/master/Screenshot%202025-07-28%20124846.png?raw=true)
+![alt text](?raw=true)
 ## 🛠️ Tools & Teknologi
