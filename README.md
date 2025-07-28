@@ -30,10 +30,10 @@ Aplikasi ini bertujuan untuk membantu pengelolaan stok barang toko, pencatatan p
    https://github.com/MHasrun/InventoriToko-Kotlin-UMB
    cd inventoriToko-kotlin-UMB
 
-1. **Aplikasi Dibuka**
+2. **Aplikasi Dibuka**
    - Langsung menampilkan halaman Login.
 
-2. **Login**
+3. **Login**
    - User mengisi Email dan Password
    - Validasi:
      - Format email harus valid
@@ -45,19 +45,19 @@ Aplikasi ini bertujuan untuk membantu pengelolaan stok barang toko, pencatatan p
      - Tampilkan pesan error
    - Tersedia tombol untuk berpindah ke halaman Register
 
-3. **Register**
+4. **Register**
    - User mengisi:
      - Nama
      - Email
      - Password
 
-4. **List Barang**
+5. **List Barang**
 menampilkan List Barang
 
-5. **keranjang**
+6. **keranjang**
    menambahkan produk ke keranjang
    
-6.**Pembayaran Sukses**
+7.**Pembayaran Sukses**
     Pembayaran Sukses
   
 
