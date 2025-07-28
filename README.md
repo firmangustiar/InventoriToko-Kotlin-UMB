@@ -27,7 +27,7 @@ Aplikasi ini bertujuan untuk membantu pengelolaan stok barang toko, pencatatan p
 
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/MeliAnggraeni27/inventoriToko-kotlin-UMB.git
+   https://github.com/MHasrun/InventoriToko-Kotlin-UMB
    cd inventoriToko-kotlin-UMB
 
 1. **Aplikasi Dibuka**
